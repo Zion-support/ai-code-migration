@@ -1,14 +1,15 @@
 # 🌐 Zion App Network — Interlinks
 
-**ai-code-migration** — automated migration between languages and frameworks. Part of the Zion Tech Group app network (630+ apps).
+**ai-code-migration** is part of the Zion Tech Group app network (630+ apps).
 
 - 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
 - 🗂️ Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
 
 ## Related apps
-- [zion-ai-code-migrator](https://github.com/Zion-support/zion-ai-code-migrator) — legacy modernization
-- [ai-code-formatter](https://github.com/Zion-support/ai-code-formatter) — formatting & linting
-- [zion-ai-code-assistant](https://github.com/Zion-support/zion-ai-code-assistant) — AI code assistant
+- [zion-ai-code-migrator](https://github.com/Zion-support/zion-ai-code-migrator) — Autonomous legacy modernization
+- [ai-code-formatter](https://github.com/Zion-support/ai-code-formatter) — Formatting and style enforcement
+- [zion-ai-code-reviewer](https://github.com/Zion-support/zion-ai-code-reviewer) — Automated PR review
+- [cloud-migration](https://github.com/Zion-support/cloud-migration) — Cloud migration services
 - [zion-network](https://github.com/Zion-support/zion-network) — network hub
 
 ---
