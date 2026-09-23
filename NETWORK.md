@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Code Migration
 
-**ai-code-migration** is part of the Zion Tech Group app network (630+ apps).
+Automated codebase migration between languages and frameworks.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [zion-ai-code-migrator](https://github.com/Zion-support/zion-ai-code-migrator) · [ai-code-formatter](https://github.com/Zion-support/ai-code-formatter) · [zion-ai-code-assistant](https://github.com/Zion-support/zion-ai-code-assistant) · [tech-debt-radar](https://github.com/Zion-support/tech-debt-radar) · [cloud-migration](https://github.com/Zion-support/cloud-migration)
 
-## Related apps
-- [zion-ai-code-migrator](https://github.com/Zion-support/zion-ai-code-migrator) — Autonomous legacy modernization
-- [ai-code-formatter](https://github.com/Zion-support/ai-code-formatter) — Formatting and style enforcement
-- [zion-ai-code-reviewer](https://github.com/Zion-support/zion-ai-code-reviewer) — Automated PR review
-- [cloud-migration](https://github.com/Zion-support/cloud-migration) — Cloud migration services
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
